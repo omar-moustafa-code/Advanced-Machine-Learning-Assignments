@@ -15,7 +15,7 @@ The full collection of assignments completed for the CSCE 4604 course: **Advance
 
 ---
 
-## 🧠 Assignments
+## Assignments
 
 ### Assignment 1 — Regression
 
