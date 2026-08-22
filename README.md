@@ -211,11 +211,3 @@ These assignments were completed as part of the **Advanced Machine Learning** co
 The repository is intended as an academic record and portfolio of the implementations, experiments, and analyses completed throughout the course.
 
 Some assignments are based on course-provided labs and tutorials. Original sources and references are retained within the corresponding notebooks where applicable.
-
----
-
-## 👤 Author
-
-**Omar Moustafa**
-
-The American University in Cairo (AUC)
