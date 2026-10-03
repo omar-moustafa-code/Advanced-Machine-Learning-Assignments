@@ -206,7 +206,7 @@ Together, they provide hands-on experience with both **supervised and reinforcem
 
 ## Notes
 
-These assignments were completed as part of the **Advanced Machine Learning** course at **The American University in Cairo (AUC)**.
+These assignments were completed as part of the **Advanced Machine Learning (CSCE 4604)** course at **The American University in Cairo (AUC)**.
 
 The repository is intended as an academic record and portfolio of the implementations, experiments, and analyses completed throughout the course.
 
